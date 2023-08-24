@@ -15,7 +15,7 @@ const populate = {
       },
       feature: {
         populate: {
-          fields: ["title", "description", "showLink", "newTab", "url", "text"],
+          fields: ["media","title", "description", "showLink", "newTab", "url", "text"],
           media: {
             fields: ["url", "alternativeText", "caption", "width", "height"],
           },

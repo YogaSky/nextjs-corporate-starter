@@ -16,12 +16,20 @@
       "type": "text"
     },
     "icon": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "meddd": {
       "allowedTypes": [
         "images"
       ],
       "type": "media",
       "multiple": false,
-      "required": true
+      "required": false
     }
   }
 }

@@ -10,10 +10,12 @@
     "strapi": "strapi"
   },
   "dependencies": {
+    "@strapi/plugin-color-picker": "^4.12.5",
     "@strapi/plugin-i18n": "4.12.1",
     "@strapi/plugin-seo": "^1.8.0",
     "@strapi/plugin-users-permissions": "4.12.1",
     "@strapi/strapi": "4.12.1",
+    "@studio123/strapi-plugin-image-color-palette": "^1.1.3",
     "better-sqlite3": "8.4.0"
   },
   "author": {
