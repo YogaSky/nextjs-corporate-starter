@@ -1,22 +1,17 @@
 {
-  "collectionName": "components_layout_features",
+  "collectionName": "components_sections_galleries",
   "info": {
-    "displayName": "Features",
+    "displayName": "Gallery",
+    "icon": "apps",
     "description": ""
   },
   "options": {},
   "attributes": {
-    "heading": {
+    "Gallerytitle": {
       "type": "string"
     },
-    "description": {
-      "type": "text"
-    },
-    "feature": {
-      "displayName": "Feature",
-      "type": "component",
-      "repeatable": true,
-      "component": "elements.feature"
+    "des": {
+      "type": "string"
     },
     "img": {
       "type": "media",

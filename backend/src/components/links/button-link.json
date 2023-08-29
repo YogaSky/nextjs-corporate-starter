@@ -24,6 +24,9 @@
         "primary",
         "secondary"
       ]
+    },
+    "Description": {
+      "type": "string"
     }
   }
 }

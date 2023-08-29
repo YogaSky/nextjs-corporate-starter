@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_elements_galleries",
+  "info": {
+    "displayName": "Gallery",
+    "icon": "picture",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "imgtt": {
+      "type": "text"
+    },
+    "mediaclassgal": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
